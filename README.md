@@ -1,5 +1,6 @@
 # Screenshort
 ![auth](https://github.com/user-attachments/assets/70fd9b75-cc83-4f31-b1ea-baf5039c0a80)
+![auth](https://github.com/user-attachments/assets/2806d7da-44a1-4f67-aab4-7822b4c72644)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
