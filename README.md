@@ -1,10 +1,14 @@
 # Screenshort
 ![auth](https://github.com/user-attachments/assets/70fd9b75-cc83-4f31-b1ea-baf5039c0a80)
 ![auth](https://github.com/user-attachments/assets/2806d7da-44a1-4f67-aab4-7822b4c72644)
+Project Management on JIRA
+![Image](https://github.com/user-attachments/assets/634b2e86-2198-47ea-bb98-3f56723acf9c)
+![Image](https://github.com/user-attachments/assets/cbd8283b-27e3-4d64-8121-3e1b0abc0161)
+![Image](https://github.com/user-attachments/assets/f3b56256-7c9b-4a1f-8f80-06cb92d19a11)
+
+
+
 # Getting Started with Create React App
-![Image](https://github.com/user-attachments/assets/6a8a074f-3ca6-42ce-9f20-caaa3b20609d)
-![Image](https://github.com/user-attachments/assets/96ac9b86-10a3-438c-931b-70af8e4a2d9c)
-![Image](https://github.com/user-attachments/assets/291a03a3-0ac4-4436-b4de-d535e1375fca)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
